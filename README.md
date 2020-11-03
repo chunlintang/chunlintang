@@ -9,3 +9,12 @@ For the time being in Beijing, China, I'm researching on:
 * :purple_heart: [Go](https://golang.org/): learn it step by step!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=chunlintang" />
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/chunnlintang/count.svg" />
+  <br/>⭐️ Show some ❤️ by starring some of the repositories!
+</p>
+<p align="center">
+  From <a href="https://github.com/chunlintang">Mantis</a>
+</p>
