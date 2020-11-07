@@ -4,8 +4,6 @@ Github & Open Source is fantastic, isn't it?
 
 For the time being in Beijing, China, I'm researching on:
 
-<img align="right" alt="GIF" src="https://i.loli.net/2020/11/07/F3Yevz5qdaB7DlT.gif" style="width:380px;" />
-
 * :smile_cat: [React](https://github.com/facebook/react): for a `backend develoer` are very interested in `react`.
 * :smiling_imp: [php](https://www.php.net/): this is my main used program language for my `work`.
 * :purple_heart: [Go](https://golang.org/): learn it step by step!
