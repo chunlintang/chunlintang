@@ -1,23 +1,22 @@
-### :merman: Hi, nice to meet you here!
+<h1 align="center">Hi 👋, I'm Mantis</h1>
+<h3 align="center">A passionate backend developer from China</h3>
 
-Github & Open Source is fantastic, isn't it?
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chunlintang&label=Profile%20views&color=0e75b6&style=flat" alt="chunlintang" /> </p>
 
-For the time being in Beijing, China, I'm researching on:
+- 🌱 I’m currently learning **vue, redux etc.**
 
-* :smile_cat: [React](https://github.com/facebook/react): for a `backend develoer` are very interested in `react`.
-* :smiling_imp: [php](https://www.php.net/): this is my main used program language for my `work`.
-* :purple_heart: [Go](https://golang.org/): learn it step by step!
+- 📝 I regulary write articles on [www.mantis.vip](www.mantis.vip)
 
-**Languages and Tools:** 
+- 📫 How to reach me **tangchunlinit@foxmail.com**
 
-[![Go](https://img.shields.io/badge/Go-blue?style=flat&logo=go&logoColor=white&link=https://github.com/chunlintang)](https://github.com/chunlintang) 
-[![PHP](https://img.shields.io/badge/Php-black?style=flat&logo=php&logoColor=white&link=https://github.com/chunlintang)](https://github.com/chunlintang)
-[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/chunlintang)](https://github.com/chunlintang) 
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/chunlintang)](https://github.com/chunlintang) 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/chunlintang)](https://github.com/chunlintang)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/www.mantis.vip" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="www.mantis.vip" height="30" width="40" /></a>
+</p>
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/chunlintang)](https://github.com/chunlintang) 
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/chunlintang)](https://github.com/chunlintang) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/chunlintang)](https://github.com/chunlintang)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="hexo.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chunlintang" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chunlintang&show_icons=true&locale=en&layout=compact" alt="chunlintang" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chunlintang&show_icons=true&locale=en" alt="chunlintang" /></p>
