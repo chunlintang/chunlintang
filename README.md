@@ -20,7 +20,7 @@ For the time being in Beijing, China, I'm researching on:
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/chunlintang)](https://github.com/chunlintang) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/chunlintang)](https://github.com/chunlintang)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=chunlintang" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=chunlintang" />
 
 <p align="center"> 
   Visitor count<br>
