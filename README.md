@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **golang, k8s etc.**
 
-- 📝 I regulary write articles on [kirintang.github.io](kirintang.github.io)
+- 📝 I regulary write articles on [https://kirintang.github.io](kirintang.github.io)
 
 - 📫 How to reach me **tangchunlinit@foxmail.com**
 
